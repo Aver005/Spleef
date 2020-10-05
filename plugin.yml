@@ -1,0 +1,8 @@
+name: Spleef
+main: kiviuly.Spleef.Main
+version: 0.7
+author: Aver005
+commands:
+  spleef:
+    usage: /spleef HELP
+    aliases: [sp, spf]
